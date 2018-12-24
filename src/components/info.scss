@@ -1,0 +1,9 @@
+@import '../styles/shared.scss';
+
+.Info {
+    margin: px(36) px(36) 0;
+
+    >* {
+        margin-bottom: px(10);
+    }
+}

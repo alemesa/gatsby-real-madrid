@@ -1,0 +1,27 @@
+@import '../styles/shared.scss';
+
+.Jersey-title {
+    margin-top: px(64);
+    text-align: center;
+}
+
+.Jerseys {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: px(40);
+    margin: px(64) px(48) px(32);
+}
+
+.Jersey {
+    background-size: cover;
+    min-height: px(320);
+    color: white;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .08);
+    transition: all 250ms cubic-bezier(.02, .01, .47, 1);
+    background-size: cover;
+
+    &:hover {
+        box-shadow: 0 10px 10px rgba(0, 0, 0, .16);
+        transform: translate(0, -10px);
+    }
+}

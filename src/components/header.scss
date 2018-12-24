@@ -1,0 +1,36 @@
+@import '../styles/shared.scss';
+
+.Header {
+
+    width: 100%;
+    height: px(66);
+    box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.08);
+    background-color: rgba(255, 255, 255, .98);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 px(32);
+
+    a {
+        margin-left: px(16);
+        font-size: px(16);
+        text-transform: uppercase;
+        color: rgb(144, 148, 156);
+        transition: all 250ms cubic-bezier(.02, .01, .47, 1);
+
+        &:hover {
+            opacity: 0.6;
+        }
+
+    }
+
+    .left {
+        @include flex-center;
+
+        .logo {
+            width: px(30);
+            height: auto;
+        }
+    }
+
+}

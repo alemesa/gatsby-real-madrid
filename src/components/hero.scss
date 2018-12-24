@@ -1,0 +1,48 @@
+@import '../styles/shared.scss';
+
+.Hero {
+    position: relative;
+    width: 100%;
+    height: px(400);
+    background-image: url('../assets/stadium.jpg');
+    background-size: cover;
+
+    .container {
+        position: absolute;
+        color: white;
+        @include transform-center-vert;
+        margin-left: px(32);
+        text-align: left;
+
+        .title {
+            font-size: px(28);
+        }
+
+        .subtitle {
+            width: px(300);
+            margin: px(10) 0 px(20);
+            font-size: px(20);
+        }
+
+        a {
+            background-color: white;
+            color: #2f2f2f;
+            padding: px(10);
+            transition: all 250ms cubic-bezier(.02, .01, .47, 1);
+
+            &:hover {
+                background-color: #2f2f2f;
+                color: white;
+            }
+        }
+    }
+
+    .badge {
+        @include box(px(80));
+        background-image: url('../assets/logo.png');
+        background-size: cover;
+        position: absolute;
+        @include transform-center-vert;
+        right: px(32);
+    }
+}
