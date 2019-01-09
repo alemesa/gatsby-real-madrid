@@ -1,0 +1,23 @@
+@import '../styles/shared.scss';
+
+.NotFound {
+    padding: px(48);
+    width: 100%;
+    min-height: px(600);
+
+    >* {
+        margin-bottom: px(20);
+    }
+
+    a {
+        background-color: #2f2f2f;
+        color: white;
+        padding: px(10);
+        transition: all 250ms cubic-bezier(.02, .01, .47, 1);
+
+        &:hover {
+            background-color: white;
+            color: #2f2f2f;
+        }
+    }
+}

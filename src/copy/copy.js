@@ -5,8 +5,7 @@ const copy = {
     strLeague: 'Spanish La Liga',
     strManager: 'Santiago Solari',
     strStadium: 'Estadio Santiago Bernabéu',
-    strStadiumThumb:
-      'https://www.thesportsdb.com/images/media/team/stadium/rxrryp1420321403.jpg',
+    strStadiumThumb: 'https://www.thesportsdb.com/images/media/team/stadium/rxrryp1420321403.jpg',
     strStadiumDescription:
       "The Santiago Bernabéu Stadium (Spanish: Estadio Santiago Bernabéu ), is the home stadium of Real Madrid since its completion in 1947, with a current seating capacity of 81,044.\r\n\r\nSantiago Bernabéu is one of the world's most famous and prestigious football venues. It has hosted the European Cup/Champions League final on four occasions: in 1957, 1969, 1980 and 2010. The final matches for the 1964 European Nations' Cup and the 1982 FIFA World Cup, were also held at the Bernabéu, thus making it the first stadium in Europe to host both a UEFA European Championship and a FIFA World Cup final.",
     intStadiumCapacity: '81000',
@@ -17,10 +16,8 @@ const copy = {
     strYoutube: 'www.youtube.com/user/realmadridcf',
     strDescriptionEN:
       "Real Madrid Club de Fútbol (Royal Madrid Football Club), commonly known as Real Madrid, or simply as Real, is a professional football club based in Madrid, Spain.\r\n\r\nFounded in 1902 as Madrid Football Club, the team has traditionally worn a white home kit since. The word real is Spanish for royal and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem. The team has played its home matches in the 81,044-capacity Santiago Bernabéu Stadium in downtown Madrid since 1947. Unlike most European football clubs, Real Madrid's members (socios) have owned and operated the club since its inception.\r\n\r\nThe club is the world's richest football club in terms of revenue, with an annual turnover of €604 million, and the world's most valuable sports team, worth €2.5 billion ($3.4 billion). The club is one of the most widely supported teams in the world. Real Madrid is one of three founding members of the Primera División which have never been relegated from the top division, along with Athletic Bilbao and Barcelona. The club holds many long-standing rivalries, most notably El Clásico with Barcelona and the Madrid derby with Atlético Madrid.\r\n\r\nReal Madrid is the joint most successful club in Spain, in terms of overall official titles won (80), and the joint most successful club in European competitions, in terms of official European trophies won (17). The club established itself as a major force in both Spanish and European football during the 1950s. Domestically, Real Madrid has won a record 32 La Liga titles, 19 Copa del Rey, 9 Supercopa de España, 1 Copa Eva Duarte and 1 Copa de la Liga. Internationally the club has won a record 10 European Cup/UEFA Champions League titles and a joint record 3 Intercontinental Cups, as well as 2 UEFA Cups, 2 UEFA Super Cups and a FIFA Club World Cup.\r\n\r\nReal Madrid was recognised as the FIFA Club of the 20th Century on 23 December 2000, and named Best European Club of the 20th Century by the IFFHS on 11 May 2010. The club also received the FIFA Order of Merit in 2004. The club is allowed to wear a multiple–winner badge on their shirt during UEFA Champions League matches as they have won more than five European Cups. They also wear a FIFA Club World Cup champions badge as winners of the 2014 competition. Currently, the football club leads the UEFA club rankings.",
-    strTeamBadge:
-      'https://www.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png',
-    strTeamJersey:
-      'https://www.thesportsdb.com/images/media/team/jersey/vrxssr1472752398.png',
+    strTeamBadge: 'https://www.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png',
+    strTeamJersey: 'https://www.thesportsdb.com/images/media/team/jersey/vrxssr1472752398.png',
   },
   players: [
     {
@@ -49,18 +46,12 @@ const copy = {
       strInstagram: 'www.instagram.com/sr4oficial',
       strYoutube: 'www.youtube.com/user/sergioramosoficial',
       strHeight: '1.83',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/z3cseq1518949774.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/pqc1nf1520754844.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/usssuu1421876670.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/yrquuw1472594752.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/tsuwvy1472594781.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/tvprvy1472594815.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/z3cseq1518949774.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/pqc1nf1520754844.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/usssuu1421876670.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/yrquuw1472594752.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/tsuwvy1472594781.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/tvprvy1472594815.jpg',
     },
     {
       strRoute: 'bale',
@@ -87,18 +78,12 @@ const copy = {
       strTwitter: 'twitter.com/garethbale11',
       strInstagram: 'instagram.com/garethbale11',
       strHeight: '1.83',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/mvsimj1513514024.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/v1c1yj1520710656.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/ruqrrv1421581440.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/wvytrt1472589544.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/rqqqrv1472589559.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/uvwsux1472589574.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/mvsimj1513514024.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/v1c1yj1520710656.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/ruqrrv1421581440.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/wvytrt1472589544.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/rqqqrv1472589559.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/uvwsux1472589574.jpg',
     },
     {
       strRoute: 'modric',
@@ -125,18 +110,12 @@ const copy = {
       strTwitter: 'twitter.com/lm19official',
       strInstagram: 'www.instagram.com/lukam10',
       strHeight: '1.73',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/p7bvll1515782247.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/5madll1520754605.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/xsywyq1421868816.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/vrqput1472655508.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/uqqutw1472655616.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/wvqtpt1472655699.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/p7bvll1515782247.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/5madll1520754605.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/xsywyq1421868816.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/vrqput1472655508.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/uqqutw1472655616.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/wvqtpt1472655699.jpg',
     },
     {
       strRoute: 'courtois',
@@ -158,18 +137,12 @@ const copy = {
       strGender: 'Male',
       strPosition: 'Goalkeeper',
       strHeight: '1.99',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/b9cy1x1533894579.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/18026122.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/yxxtpy1431626262.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/uvuryx1431626272.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/uvwuup1431626285.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/xxusuw1431626297.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/b9cy1x1533894579.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/18026122.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/yxxtpy1431626262.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/uvuryx1431626272.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/uvwuup1431626285.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/xxusuw1431626297.jpg',
     },
     {
       strRoute: 'kroos',
@@ -198,18 +171,12 @@ const copy = {
       strTwitter: 'twitter.com/ToniKroos',
       strInstagram: 'www.instagram.com/toni.kr8s',
       strHeight: '1.75',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/yc8ubj1515782417.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/08phdc1520754048.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/vyrsuu1422098245.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/tqyswr1472646426.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/vstyuq1472646496.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/rvsyqv1472646624.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/yc8ubj1515782417.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/08phdc1520754048.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/vyrsuu1422098245.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/tqyswr1472646426.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/vstyuq1472646496.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/rvsyqv1472646624.jpg',
     },
     {
       strRoute: 'varane',
@@ -236,18 +203,12 @@ const copy = {
       strTwitter: 'twitter.com/raphaelvarane',
       strInstagram: 'www.instagram.com/raphaelvarane',
       strHeight: '1.88',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/ugn1cx1518950293.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/wepafk1520755220.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/ywvxtv1422099143.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/qurqsp1472680210.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/wursvx1472680130.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/uuupxq1472679998.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/ugn1cx1518950293.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/wepafk1520755220.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/ywvxtv1422099143.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/qurqsp1472680210.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/wursvx1472680130.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/uuupxq1472679998.jpg',
     },
     {
       strRoute: 'marcelo',
@@ -275,18 +236,12 @@ const copy = {
       strTwitter: 'twitter.com/MarceloM12',
       strInstagram: 'www.instagram.com/marcelotwelve',
       strHeight: '1.68',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/mt7v6r1520688045.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/hphw8k1520687974.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/vtvxyy1421875303.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/qpupus1472571894.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/rpyuvq1472571973.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/svqrrw1472572072.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/mt7v6r1520688045.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/hphw8k1520687974.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/vtvxyy1421875303.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/qpupus1472571894.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/rpyuvq1472571973.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/svqrrw1472572072.jpg',
     },
     {
       strRoute: 'carvajal',
@@ -311,18 +266,12 @@ const copy = {
       strFacebook: 'www.facebook.com/danicarvajaloficial/',
       strTwitter: 'twitter.com/DaniCarvajal92',
       strHeight: '1.73m',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/8kkue01513512124.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/2cja9r1520710811.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/xrvpux1431550351.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/qyvyxq1472591453.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/yvvtvt1472591545.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/trttus1472591350.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/8kkue01513512124.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/2cja9r1520710811.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/xrvpux1431550351.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/qyvyxq1472591453.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/yvvtvt1472591545.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/trttus1472591350.jpg',
     },
     {
       strRoute: 'nacho',
@@ -348,18 +297,12 @@ const copy = {
       strTwitter: 'twitter.com/nachofi1990',
       strInstagram: 'www.instagram.com/nachofdez90',
       strHeight: '1.79m',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/uo6ue81514399314.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/1u91y91520753626.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/txsvqu1421869564.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/vwqvtv1472593348.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/tuquvr1472593269.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/wrrvww1472593190.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/uo6ue81514399314.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/1u91y91520753626.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/txsvqu1421869564.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/vwqvtv1472593348.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/tuquvr1472593269.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/wrrvww1472593190.jpg',
     },
     {
       strRoute: 'bale',
@@ -386,18 +329,12 @@ const copy = {
       strTwitter: 'twitter.com/garethbale11',
       strInstagram: 'instagram.com/garethbale11',
       strHeight: '1.83',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/mvsimj1513514024.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/v1c1yj1520710656.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/ruqrrv1421581440.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/wvytrt1472589544.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/rqqqrv1472589559.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/uvwsux1472589574.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/mvsimj1513514024.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/v1c1yj1520710656.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/ruqrrv1421581440.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/wvytrt1472589544.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/rqqqrv1472589559.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/uvwsux1472589574.jpg',
     },
 
     {
@@ -424,18 +361,12 @@ const copy = {
       strTwitter: 'twitter.com/isco_alarcon',
       strInstagram: 'www.instagram.com/iscoalarcon',
       strHeight: '1.7',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/1xzlqs1514397818.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/ehq11o1520688153.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/qwpwwy1421868492.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/wwuvsq1472572265.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/wysxqt1472572347.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/srrvqp1472572424.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/1xzlqs1514397818.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/ehq11o1520688153.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/qwpwwy1421868492.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/wwuvsq1472572265.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/wysxqt1472572347.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/srrvqp1472572424.jpg',
     },
     {
       strRoute: 'benzema',
@@ -464,18 +395,12 @@ const copy = {
       strTwitter: 'twitter.com/Benzema',
       strInstagram: 'www.instagram.com/karimbenzema',
       strHeight: '1.83',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/twfivo1513514170.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/pl7lbx1520710740.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/wtqpwy1421867796.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/qswwyr1421867911.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/yqrrwt1472590910.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/xyprqy1472590974.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/twfivo1513514170.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/pl7lbx1520710740.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/wtqpwy1421867796.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/qswwyr1421867911.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/yqrrwt1472590910.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/xyprqy1472590974.jpg',
     },
     {
       strRoute: 'keylor',
@@ -502,18 +427,12 @@ const copy = {
       strTwitter: 'twitter.com/NavasKeylor',
       strInstagram: 'www.instagram.com/keylornavas1',
       strHeight: '1.85',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/lpm86z1513511831.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/dg76vs1520754728.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/xuvxrp1425341197.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/yqwysr1425341210.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/swrqsq1472675040.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/tqwrsp1472675154.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/lpm86z1513511831.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/dg76vs1520754728.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/xuvxrp1425341197.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/yqwysr1425341210.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/swrqsq1472675040.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/tqwrsp1472675154.jpg',
     },
     {
       strRoute: 'llorente',
@@ -534,10 +453,8 @@ const copy = {
       strGender: 'Male',
       strPosition: 'Midfielder',
       strHeight: '1.80',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/v58ccl1514397460.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/ngzrku1520754416.png',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/v58ccl1514397460.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/ngzrku1520754416.png',
     },
     {
       strRoute: 'casemiro',
@@ -565,18 +482,12 @@ const copy = {
       strTwitter: 'twitter.com/Casemiro',
       strInstagram: 'www.instagram.com/casemiro_oficial',
       strHeight: '184 cm',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/rkcq7i1514397765.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/yqzaxa1520688279.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/9th2ql1512221345.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/qtuvwu1472586910.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/syqwtq1472587084.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/uywvxp1472587245.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/rkcq7i1514397765.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/yqzaxa1520688279.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/9th2ql1512221345.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/qtuvwu1472586910.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/syqwtq1472587084.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/uywvxp1472587245.jpg',
     },
     {
       strRoute: 'vazquez',
@@ -602,18 +513,12 @@ const copy = {
       strTwitter: 'twitter.com/lucasvazquez91',
       strInstagram: 'www.instagram.com/lucasvazquez91',
       strHeight: '1.73m',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/fx5wtp1514554004.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/zj6rku1520755274.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/tvyrup1471164420.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/xvyqur1472680619.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/wyytqw1472680707.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/yxwxpu1472680655.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/fx5wtp1514554004.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/zj6rku1520755274.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/tvyrup1471164420.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/xvyqur1472680619.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/wyytqw1472680707.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/yxwxpu1472680655.jpg',
     },
     {
       strRoute: 'casilla',
@@ -638,18 +543,12 @@ const copy = {
       strTwitter: 'twitter.com/KikoCasilla13',
       strInstagram: 'www.instagram.com/kikocasilla',
       strHeight: '1.88',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/rfmzxd1512221492.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/s27sez1520688358.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/qwtsrr1470077143.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/vwquyq1472588104.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/wuyxsx1472588039.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/wusqsw1472587952.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/rfmzxd1512221492.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/s27sez1520688358.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/qwtsrr1470077143.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/vwquyq1472588104.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/wuyxsx1472588039.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/wusqsw1472587952.jpg',
     },
     {
       strRoute: 'ceballos',
@@ -670,10 +569,8 @@ const copy = {
       strGender: 'Male',
       strPosition: 'Midfielder',
       strHeight: '1.76m',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/bhvycd1514397547.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/erwqsf1520753378.png',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/bhvycd1514397547.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/erwqsf1520753378.png',
     },
     {
       strRoute: 'asensio',
@@ -697,18 +594,12 @@ const copy = {
       strTwitter: 'twitter.com/marcoasensio10',
       strInstagram: 'www.instagram.com/marcoasensio10',
       strHeight: '1.70m',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/iiz00s1513513882.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/o9sykp1520710539.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/sruyss1470928306.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/txsvqu1472588275.jpg',
-      strFanart3:
-        'https://www.thesportsdb.com/images/media/player/fanart/vptysq1472588378.jpg',
-      strFanart4:
-        'https://www.thesportsdb.com/images/media/player/fanart/uprusy1472588613.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/iiz00s1513513882.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/o9sykp1520710539.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/sruyss1470928306.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/txsvqu1472588275.jpg',
+      strFanart3: 'https://www.thesportsdb.com/images/media/player/fanart/vptysq1472588378.jpg',
+      strFanart4: 'https://www.thesportsdb.com/images/media/player/fanart/uprusy1472588613.jpg',
     },
     {
       strRoute: 'vallejo',
@@ -727,10 +618,8 @@ const copy = {
       strGender: 'Male',
       strPosition: 'Defender',
       strHeight: '1.83m',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/gmadm01531842105.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/4qw7kt1520755093.png',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/gmadm01531842105.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/4qw7kt1520755093.png',
     },
     {
       strRoute: 'mariano',
@@ -754,14 +643,10 @@ const copy = {
       strTwitter: 'twitter.com/marianodiaz9',
       strInstagram: 'www.instagram.com/marianodiazmejia',
       strHeight: '1.78m',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/jp4l5x1535602149.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/rvrprp1472594557.png',
-      strFanart1:
-        'https://www.thesportsdb.com/images/media/player/fanart/wtvryx1472634401.jpg',
-      strFanart2:
-        'https://www.thesportsdb.com/images/media/player/fanart/rpwrxq1472634231.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/jp4l5x1535602149.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/rvrprp1472594557.png',
+      strFanart1: 'https://www.thesportsdb.com/images/media/player/fanart/wtvryx1472634401.jpg',
+      strFanart2: 'https://www.thesportsdb.com/images/media/player/fanart/rpwrxq1472634231.jpg',
     },
     {
       strRoute: 'vinicius',
@@ -780,10 +665,8 @@ const copy = {
       strGender: 'Male',
       strPosition: 'Forward',
       strHeight: '1.77',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/su95n01533894723.jpg',
-      strCutout:
-        'https://www.thesportsdb.com/images/media/player/cutout/br7voi1496768395.png',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/su95n01533894723.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/cutout/br7voi1496768395.png',
     },
     {
       strRoute: 'odriozola',
@@ -802,8 +685,8 @@ const copy = {
       strGender: 'Male',
       strPosition: 'Defender',
       strHeight: '1.78',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/jh4u8c1533368225.jpg',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/jh4u8c1533368225.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/thumb/jh4u8c1533368225.jpg',
     },
     {
       strRoute: 'lunin',
@@ -822,137 +705,8 @@ const copy = {
       strGender: 'Male',
       strPosition: 'Goalkeeper',
       strHeight: '1.91',
-      strThumb:
-        'https://www.thesportsdb.com/images/media/player/thumb/bphl561531937360.jpg',
-    },
-    {
-      strRoute: 'de_tomas',
-      idPlayer: '34146340',
-      idTeam: '134485',
-      idSoccerXML: '945',
-      strNationality: 'Spain',
-      strPlayer: 'Raul de Tomas Gomez',
-      strTeam: 'Real Madrid B',
-      strSport: 'Soccer',
-      intSoccerXMLTeamID: '154',
-      dateBorn: '1994-10-17',
-      dateSigned: '2013-07-01',
-      strSigning: '',
-      strBirthLocation: '',
-      strGender: 'Male',
-      strPosition: 'Forward',
-      strHeight: '0',
-    },
-    {
-      strRoute: 'aguza',
-      idPlayer: '34146341',
-      idTeam: '134485',
-      idSoccerXML: '945',
-      strNationality: 'Spain',
-      strPlayer: 'Sergio Aguza',
-      strTeam: 'Real Madrid B',
-      strSport: 'Soccer',
-      intSoccerXMLTeamID: '154',
-      dateBorn: '1992-09-02',
-      dateSigned: '2014-09-26',
-      strSigning: '',
-      strBirthLocation: '',
-      strGender: 'Male',
-      strPosition: 'Midfielder',
-      strHeight: '0',
-    },
-  ],
-  events: [
-    {
-      idEvent: '584496',
-      idSoccerXML: '398246',
-      strEvent: 'Huesca vs Real Madrid',
-      strFilename: 'La Liga 2018-12-09 Huesca vs Real Madrid',
-      strSport: 'Soccer',
-      idLeague: '4335',
-      strLeague: 'Spanish La Liga',
-      strSeason: '1819',
-      strHomeTeam: 'Huesca',
-      strAwayTeam: 'Real Madrid',
-      intRound: '15',
-      dateEvent: '2018-12-09',
-      strDate: '09/12/18',
-      strTime: '15:15:00+00:00',
-      idHomeTeam: '135454',
-      idAwayTeam: '133738',
-    },
-    {
-      idEvent: '592811',
-      strEvent: 'Real Madrid vs CSKA Moscow',
-      strFilename:
-        'UEFA Champions League 2018-12-12 Real Madrid vs CSKA Moscow',
-      strSport: 'Soccer',
-      idLeague: '4480',
-      strLeague: 'UEFA Champions League',
-      strSeason: '1819',
-      strDescriptionEN: '',
-      strHomeTeam: 'Real Madrid',
-      strAwayTeam: 'CSKA Moscow',
-      intRound: '6',
-      dateEvent: '2018-12-12',
-      strTime: '17:55:00',
-      idHomeTeam: '133738',
-      idAwayTeam: '134120',
-      strResult: '',
-    },
-    {
-      idEvent: '584506',
-      idSoccerXML: '398247',
-      strEvent: 'Real Madrid vs Vallecano',
-      strFilename: 'La Liga 2018-12-16 Real Madrid vs Vallecano',
-      strSport: 'Soccer',
-      idLeague: '4335',
-      strLeague: 'Spanish La Liga',
-      strSeason: '1819',
-      strHomeTeam: 'Real Madrid',
-      strAwayTeam: 'Vallecano',
-      intRound: '16',
-      dateEvent: '2018-12-15',
-      strDate: '15/12/18',
-      strTime: '17:30:00+00:00',
-      idHomeTeam: '133738',
-      idAwayTeam: '133728',
-    },
-    {
-      idEvent: '584516',
-      idSoccerXML: '398248',
-      strEvent: 'Villarreal vs Real Madrid',
-      strFilename: 'La Liga 2018-12-22 Villarreal vs Real Madrid',
-      strSport: 'Soccer',
-      idLeague: '4335',
-      strLeague: 'Spanish La Liga',
-      strSeason: '1819',
-      strHomeTeam: 'Villarreal',
-      strAwayTeam: 'Real Madrid',
-      intRound: '17',
-      dateEvent: '2019-01-03',
-      strDate: '03/01/19',
-      strTime: '20:30:00+00:00',
-      idHomeTeam: '133740',
-      idAwayTeam: '133738',
-    },
-    {
-      idEvent: '584526',
-      idSoccerXML: '398249',
-      strEvent: 'Real Madrid vs Sociedad',
-      strFilename: 'La Liga 2019-01-06 Real Madrid vs Sociedad',
-      strSport: 'Soccer',
-      idLeague: '4335',
-      strLeague: 'Spanish La Liga',
-      strSeason: '1819',
-      strHomeTeam: 'Real Madrid',
-      strAwayTeam: 'Sociedad',
-      intRound: '18',
-      dateEvent: '2019-01-06',
-      strDate: '06/01/19',
-      strTime: '19:00:00+00:00',
-      idHomeTeam: '133738',
-      idAwayTeam: '133724',
+      strThumb: 'https://www.thesportsdb.com/images/media/player/thumb/bphl561531937360.jpg',
+      strCutout: 'https://www.thesportsdb.com/images/media/player/thumb/jh4u8c1533368225.jpg',
     },
   ],
 }
