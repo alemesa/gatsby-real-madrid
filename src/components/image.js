@@ -27,15 +27,9 @@ export const JerseysImages = () => (
   <StaticQuery
     query={graphql`
       query {
-        imageOne: file(relativePath: { eq: "home_jersey.jpeg" }) {
-          ...fluidImage
-        }
-        imageTwo: file(relativePath: { eq: "visitor_jersey.jpeg" }) {
-          ...fluidImage
-        }
-        imageThree: file(relativePath: { eq: "third_jersey.jpeg" }) {
-          ...fluidImage
-        }
+        imageOne: file(relativePath: { eq: "home_jersey.jpeg" }) { ...fluidImage}
+        imageTwo: file(relativePath: { eq: "visitor_jersey.jpeg" }) {...fluidImage}
+        imageThree: file(relativePath: { eq: "third_jersey.jpeg" }) {...fluidImage}
       }
     `}
     render={data => (
